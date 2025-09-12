@@ -3,8 +3,6 @@ A passionate Computer Engineering student from India | Web & AI Developer
 
 🔭 I’m currently working on an **AI-Based Academic Management Project**  
 🌱 I’m currently learning **React, NodeJS, NextJS, MongoDB**  
-👯 I’m open to collaborate on **AI & Web Development projects**  
-💬 Ask me about **Web Development, Databases, and IoT Projects**  
 📫 How to reach me: **jigishadmhapasekar@gmail.com**  
 ⚡ Fun fact: I enjoy exploring new tech stacks 🚀  
 
@@ -54,9 +52,10 @@ A passionate Computer Engineering student from India | Web & AI Developer
 
 ---
 
-### 🏆 HackerRank Stats
-[![Problem Solving](https://img.shields.io/badge/Problem%20Solving-⭐%20Level-blue?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/jigishadmhapase1)  
-[![Python](https://img.shields.io/badge/Python-⭐%20Level-brightgreen?style=for-the-badge&logo=python&logoColor=white)](https://www.hackerrank.com/jigishadmhapase1)  
+### 🏆 HackerRank Badges
+
+**Problem Solving**: ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-5%20Stars-brightgreen?style=for-the-badge)
+**Python**: ![Python](https://img.shields.io/badge/Python-4%20Stars-yellow?style=for-the-badge)
 
 ---
 
