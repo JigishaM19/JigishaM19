@@ -1,14 +1,16 @@
-# Hi 👋, I'm Jigisha Mhapasekar
-A passionate Computer Engineering student from India  
-----------------------------------------------------------------------------
-🔭 I’m currently working on an AI Based Academic Management Project.  
-🌱 I’m currently learning React, NodeJS, NextJS, MongoDB.  
-📫 How to reach me: jigishadmhapasekar@gmail.com  
+# Hi 👋, I'm Jigisha Mhapasekar  
+A passionate Computer Engineering student from India | Web & AI Developer  
+
+🔭 I’m currently working on an **AI-Based Academic Management Project**  
+🌱 I’m currently learning **React, NodeJS, NextJS, MongoDB**  
+👯 I’m open to collaborate on **AI & Web Development projects**  
+💬 Ask me about **Web Development, Databases, and IoT Projects**  
+📫 How to reach me: **jigishadmhapasekar@gmail.com**  
 ⚡ Fun fact: I enjoy exploring new tech stacks 🚀  
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jigisha-mhapasekar)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JigishaM19)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/jigishadmhapase1)  
@@ -19,7 +21,13 @@ A passionate Computer Engineering student from India
 
 ---
 
-### 💻 Tech Stack:
+### 🔭 Projects
+- [AI Academic Management App](#)  
+- [Smart Energy Management System](#)  
+
+---
+
+### 💻 Tech Stack
 
 #### Programming Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
@@ -41,10 +49,22 @@ A passionate Computer Engineering student from India
 
 #### Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)   
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ---
 
-### 📊 GitHub Stats:
+### 🏆 HackerRank Stats
+[![Problem Solving](https://img.shields.io/badge/Problem%20Solving-⭐%20Level-blue?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/jigishadmhapase1)  
+[![Python](https://img.shields.io/badge/Python-⭐%20Level-brightgreen?style=for-the-badge&logo=python&logoColor=white)](https://www.hackerrank.com/jigishadmhapase1)  
+
+---
+
+### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JigishaM19&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JigishaM19&layout=compact&theme=tokyonight)  
+
+---
+
+### 🐍 GitHub Contribution Snake
+![snake gif](https://github.com/JigishaM19/JigishaM19/blob/output/github-contribution-grid-snake.svg)
