@@ -42,7 +42,6 @@ A passionate Computer Engineering student from India | Web & AI Developer
 #### Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ---
 
@@ -52,11 +51,11 @@ A passionate Computer Engineering student from India | Web & AI Developer
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JigishaM19&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JigishaM19&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JigishaM19&show_icons=true&theme=tokyonight)   
 
 
 ### 🐍 GitHub Contribution Snake
 ![snake gif](https://github.com/JigishaM19/JigishaM19/blob/main/output/github-contribution-grid-snake.svg)
+
 
 
