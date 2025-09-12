@@ -38,4 +38,3 @@ jobs:
           git add output/github-contribution-grid-snake.svg
           git commit -m "Update GitHub Contribution Snake" || echo "No changes to commit"
           git push
-
