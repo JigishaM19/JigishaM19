@@ -19,13 +19,6 @@ A passionate Computer Engineering student from India | Web & AI Developer
 ![Profile views](https://komarev.com/ghpvc/?username=JigishaM19&color=blue)
 
 ---
-
-### 🔭 Projects
-- [AI Academic Management App](#)  
-- [Smart Energy Management System](#)  
-
----
-
 ### 💻 Tech Stack
 
 #### Programming Languages  
@@ -63,6 +56,6 @@ A passionate Computer Engineering student from India | Web & AI Developer
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JigishaM19&layout=compact&theme=tokyonight)  
 
 
-### 🐍 GitHub Contribution Snake
+### 🐍 GitHub Contribution Snake 
 ![snake gif](https://github.com/JigishaM19/JigishaM19/blob/output/github-contribution-grid-snake.svg)
 
