@@ -51,11 +51,11 @@ A passionate Computer Engineering student from India | Web & AI Developer
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JigishaM19&show_icons=true&theme=tokyonight)   
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JigishaM19&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JigishaM19&theme=tokyonight)
 
 
-### 🐍 GitHub Contribution Snake
-![snake gif](https://github.com/JigishaM19/JigishaM19/blob/main/output/github-contribution-grid-snake.svg)
+
 
 
 
