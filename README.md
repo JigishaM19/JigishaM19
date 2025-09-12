@@ -53,8 +53,6 @@ A passionate Computer Engineering student from India | Web & AI Developer
 ---
 
 ### 🏆 HackerRank Badges
-
-**Problem Solving**: ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-5%20Stars-brightgreen?style=for-the-badge)
 **Python**: ![Python](https://img.shields.io/badge/Python-4%20Stars-yellow?style=for-the-badge)
 
 ---
