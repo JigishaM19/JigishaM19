@@ -1,9 +1,6 @@
 # Hi 👋, I'm Jigisha Mhapasekar  
 A passionate Computer Engineering student from India | Web & AI Developer  
 
-### 🐍 GitHub Contribution Snake
-![snake gif](https://github.com/JigishaM19/JigishaM19/blob/output/github-contribution-grid-snake.svg)
-
 
 🔭 I’m currently working on an **AI-Based Academic Management Project**  
 🌱 I’m currently learning **React, NodeJS, NextJS, MongoDB**  
@@ -65,4 +62,7 @@ A passionate Computer Engineering student from India | Web & AI Developer
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JigishaM19&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JigishaM19&layout=compact&theme=tokyonight)  
 
+
+### 🐍 GitHub Contribution Snake
+![snake gif](https://github.com/JigishaM19/JigishaM19/blob/output/github-contribution-grid-snake.svg)
 
