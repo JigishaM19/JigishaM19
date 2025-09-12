@@ -1,40 +1,39 @@
-name: GitHub Contribution Snake
+name: GitHub Contribution Snake - Custom Colors
 
-# Trigger the workflow daily and manually
 on:
   schedule:
-    - cron: '0 0 * * *'  # runs daily at midnight UTC
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Step 2.1: Checkout the repository
+      # 1️⃣ Checkout repository
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      # Step 2.2: Set up Python
+      # 2️⃣ Set up Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      # Step 2.3: Install github-snake
-      - name: Install dependencies
+      # 3️⃣ Install github-snake
+      - name: Install github-snake
         run: |
           pip install github-snake
 
-      # Step 2.4: Generate the snake SVG
-      - name: Run GitHub Snake
+      # 4️⃣ Generate custom-color snake SVG
+      - name: Generate Snake with Custom Colors
         run: |
-          github-snake -u JigishaM19 -o output
+          github-snake -u JigishaM19 -o output -c "#ff4d4d,#ff944d,#fff44d,#4dff4d"
 
-      # Step 2.5: Commit and push the updated snake
+      # 5️⃣ Commit and push updated SVG
       - name: Commit & Push Snake
         run: |
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
           git add output/github-contribution-grid-snake.svg
-          git commit -m "Update GitHub Contribution Snake" || echo "No changes to commit"
+          git commit -m "Update GitHub Contribution Snake with custom colors" || echo "No changes to commit"
           git push
