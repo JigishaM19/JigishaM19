@@ -19,7 +19,7 @@ A passionate Computer Engineering student from India | Web & AI Developer
 ![Profile views](https://komarev.com/ghpvc/?username=JigishaM19&color=blue)
 
 ---
-### 💻 Tech Stack
+
 ### 💻 Tech Stack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
