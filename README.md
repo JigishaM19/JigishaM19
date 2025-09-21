@@ -76,13 +76,8 @@ A passionate Computer Engineering student from India | Web & AI Developer
 
 ---
 ## 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JigishaM19/JigishaM19/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JigishaM19/JigishaM19/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/JigishaM19/JigishaM19/output/github-snake.svg" />
-  </picture>
-</p>
+![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=JigishaM19&layout=compact&theme=tokyonight)
+
 
 ---
 ## 🏆 Badges
