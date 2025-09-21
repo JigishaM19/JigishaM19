@@ -67,24 +67,12 @@ A passionate Computer Engineering student from India | Web & AI Developer
   </picture>
 </p>
 
-
-
-
-
 ---
-
-
-
 
 ### 🏆 HackerRank Badges
 **Python**: ![Python](https://img.shields.io/badge/Python-4%20Stars-yellow?style=for-the-badge)
 
 ---
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JigishaM19&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JigishaM19&theme=tokyonight)
-
 
 
 
