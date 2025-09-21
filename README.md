@@ -83,9 +83,8 @@ GitHub Analytics
 ---
 ## 🏆 Badges
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JigishaM19&theme=monokai" alt="GitHub Trophies"/>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=JigishaM19&theme=monokai)](https://github-profile-trophy.vercel.app/?username=JigishaM19&theme=monokai)
+
 
 
 
