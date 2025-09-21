@@ -40,21 +40,21 @@ A passionate Computer Engineering student from India | Web & AI Developer
 ---------------------------
 ## 📊 GitHub Analytics
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-prajapati01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-prajapati01&theme=tokyonight&hide_border=false" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-prajapati01&theme=tokyonight&hide_border=false&layout=compact" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JigishaM19&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JigishaM19&theme=tokyonight&hide_border=false" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JigishaM19&theme=tokyonight&hide_border=false&layout=compact" height="150px"/>
 </p>
 
 <!-- Profile Summary Card -->
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepanshu-prajapati01&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JigishaM19&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-prajapati01&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JigishaM19&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
@@ -62,11 +62,12 @@ A passionate Computer Engineering student from India | Web & AI Developer
 ## 🐍 Contribution Snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepanshu-prajapati01/deepanshu-prajapati01/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepanshu-prajapati01/deepanshu-prajapati01/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/deepanshu-prajapati01/deepanshu-prajapati01/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JigishaM19/JigishaM19/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JigishaM19/JigishaM19/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/JigishaM19/JigishaM19/output/github-snake.svg" />
   </picture>
 </p>
+
 
 ---
 
