@@ -60,7 +60,6 @@ A passionate Computer Engineering student from India | Web & AI Developer
 ---
 
 ## 🐍 Contribution Snake
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JigishaM19/JigishaM19/output/github-snake-dark.svg" />
@@ -68,6 +67,11 @@ A passionate Computer Engineering student from India | Web & AI Developer
     <img alt="github-snake" src="https://raw.githubusercontent.com/JigishaM19/JigishaM19/output/github-snake.svg" />
   </picture>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JigishaM19/JigishaM19/output/ocean.gif" alt="GitHub Snake Animation"/>
+</p>
+
 
 
 
