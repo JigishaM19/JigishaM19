@@ -37,7 +37,8 @@ A passionate Computer Engineering student from India | Web & AI Developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
-## <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35"> GitHub Analytics
+---
+GitHub Analytics
 
 <div align="center">
 
@@ -71,9 +72,6 @@ A passionate Computer Engineering student from India | Web & AI Developer
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JigishaM19&theme=tokyo-night&bg_color=0d1117&color=c9d1d9&line=6366f1&point=8b5cf6&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
 
 ---
 
@@ -82,15 +80,6 @@ A passionate Computer Engineering student from India | Web & AI Developer
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JigishaM19&theme=react-dark&hide_border=true"/>
 </p>
 
----
-## 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JigishaM19/JigishaM19/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JigishaM19/JigishaM19/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/JigishaM19/JigishaM19/output/github-snake.svg" />
-  </picture>
-</p>
 
 ---
 
