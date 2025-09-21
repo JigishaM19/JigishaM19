@@ -1,6 +1,6 @@
-# Hi 👋, I'm Jigisha Mhapasekar  
-A passionate Computer Engineering student from India | Web & AI Developer  
+# <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=Hi%20👋,%20I'm%20Jigisha%20Mhapasekar&fontSize=30&fontColor=fff&animation=twinkling"/>
 
+A passionate Computer Engineering student from India | Web & AI Developer  
 
 🔭 I’m currently working on an **AI-Based Academic Management Project**  
 🌱 I’m currently learning **React, NodeJS, NextJS, MongoDB**  
@@ -12,7 +12,8 @@ A passionate Computer Engineering student from India | Web & AI Developer
 ![Profile views](https://komarev.com/ghpvc/?username=JigishaM19&color=blue)
 
 ---
-## 🛠 Tech Stack
+
+<img src="https://capsule-render.vercel.app/api?type=curve&color=gradient&height=80&section=header&text=🛠%20Tech%20Stack&fontSize=25&fontColor=fff"/>
 
 **Languages:**  
 <img src="https://img.shields.io/badge/-C++-00599C?logo=c&logoColor=white&style=flat">&nbsp;
@@ -20,7 +21,6 @@ A passionate Computer Engineering student from India | Web & AI Developer
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">&nbsp;
-
 
 **Frameworks / Libraries:**  
 <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat">&nbsp;
@@ -36,9 +36,9 @@ A passionate Computer Engineering student from India | Web & AI Developer
 <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat">&nbsp;
 
-
 ---
-## 📊 GitHub Analytics
+
+<img src="https://capsule-render.vercel.app/api?type=floating&color=gradient&height=50&section=header&text=📊%20GitHub%20Analytics&fontSize=22&fontColor=fff&animation=twinkling"/>
 
 <div align="center">
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JigishaM19&theme=github_dark"/>
@@ -69,24 +69,28 @@ A passionate Computer Engineering student from India | Web & AI Developer
 
 ---
 
-## 📈 Contribution Graph
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=50&section=header&text=📈%20Contribution%20Graph&fontSize=22&fontColor=fff&animation=twinkling"/>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JigishaM19&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
-## 🏆 Badges
+
+<img src="https://capsule-render.vercel.app/api?type=curve&color=gradient&height=50&section=header&text=🏆%20Badges&fontSize=22&fontColor=fff"/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JigishaM19&theme=monokai&no-frame=true&row=1&column=6&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies"/>
 </div>
 
 ---
+
 ### 🏆 HackerRank Badges
 **Python**: ![Python](https://img.shields.io/badge/Python-4%20Stars-yellow?style=for-the-badge)
 
 ---
-## 📬 Connect With Me
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=📬%20Connect%20With%20Me&fontSize=22&fontColor=fff&animation=twinkling"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jigishamhapasekar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -96,5 +100,4 @@ A passionate Computer Engineering student from India | Web & AI Developer
   <a href="https://www.hackerrank.com/jigishadmhapase1"><img src="https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling"/>
