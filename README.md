@@ -19,24 +19,33 @@ A passionate Computer Engineering student from India | Web & AI Developer
 ![Profile views](https://komarev.com/ghpvc/?username=JigishaM19&color=blue)
 
 ---
+## 🛠 Tech Stack / Certifications
 
-### 💻 Tech Stack
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="NextJS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</p>
+**Languages:**  
+<img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat">
+
+**Frameworks / Libraries:**  
+<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-NextJS-000000?logo=next.js&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat">
+
+**Databases:**  
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat">
+
+**Tools / Platforms:**  
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat">
+
 ---
 GitHub Analytics
 
