@@ -9,13 +9,6 @@ A passionate Computer Engineering student from India | Web & AI Developer
 
 ---
 
-### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jigisha-mhapasekar)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JigishaM19)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/jigishadmhapase1)  
-
----
-
 ![Profile views](https://komarev.com/ghpvc/?username=JigishaM19&color=blue)
 
 ---
@@ -45,12 +38,10 @@ A passionate Computer Engineering student from India | Web & AI Developer
 
 
 ---
-GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JigishaM19&theme=github_dark"/>
-
 <table>
 <tr>
 <td width="50%">
@@ -61,11 +52,9 @@ GitHub Analytics
 </td>
 </tr>
 </table>
-
 </div>
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%">
@@ -76,15 +65,23 @@ GitHub Analytics
 </td>
 </tr>
 </table>
-
 </div>
-
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JigishaM19&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+## 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JigishaM19/JigishaM19/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JigishaM19/JigishaM19/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/JigishaM19/JigishaM19/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -106,9 +103,8 @@ GitHub Analytics
   <a href="mailto:jigishadmhapasekar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/isha.m_19/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/JigishaM19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/jigishadmhapase1"><img src="https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
-
-
 
 
 
