@@ -80,9 +80,15 @@ GitHub Analytics
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JigishaM19&theme=react-dark&hide_border=true"/>
 </p>
 
+---
+## 🏆 Badges
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JigishaM19&theme=github_dark&no-frame=true&row=1&column=6&margin-w=10&margin-h=10&no-bg=true"/>
+</div>
+
 
 ---
-
 ### 🏆 HackerRank Badges
 **Python**: ![Python](https://img.shields.io/badge/Python-4%20Stars-yellow?style=for-the-badge)
 
