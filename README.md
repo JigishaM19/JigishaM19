@@ -75,11 +75,6 @@ A passionate Computer Engineering student from India | Web & AI Developer
 </p>
 
 ---
-## 🐍 Contribution Snake
-![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=JigishaM19&layout=compact&theme=tokyonight)
-
-
----
 ## 🏆 Badges
 
 <div align="center">
