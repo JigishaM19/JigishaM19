@@ -19,32 +19,30 @@ A passionate Computer Engineering student from India | Web & AI Developer
 ![Profile views](https://komarev.com/ghpvc/?username=JigishaM19&color=blue)
 
 ---
-## 🛠 Tech Stack / Certifications
+## 🛠 Tech Stack
 
 **Languages:**  
-<img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-C++-00599C?logo=c&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat">
+
 
 **Frameworks / Libraries:**  
 <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-NextJS-000000?logo=next.js&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat">
 
 **Databases:**  
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat">
 
 **Tools / Platforms:**  
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat">
+
 
 ---
 GitHub Analytics
