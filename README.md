@@ -37,7 +37,7 @@ A passionate Computer Engineering student from India | Web & AI Developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
----------------------------
+---
 ## 📊 GitHub Analytics
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=JigishaM19&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150px"/>
