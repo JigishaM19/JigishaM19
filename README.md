@@ -1,8 +1,7 @@
 # <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=Hi%20👋,%20I'm%20Jigisha%20Mhapasekar&fontSize=30&fontColor=fff&animation=twinkling"/>
 
 A passionate Computer Engineering student from India | Web & AI Developer  
-
-🔭 I’m currently working on an **AI-Based Academic Management Project**  
+ 
 🌱 I’m currently learning **React, NodeJS, NextJS, MongoDB**  
 📫 How to reach me: **jigishadmhapasekar@gmail.com**  
 ⚡ Fun fact: I enjoy exploring new tech stacks 🚀  
